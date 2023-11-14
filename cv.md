@@ -9,3 +9,6 @@
 
 **About myself:**
 Trying my best to become _someone_.
+
+**Skills:**
+PL (incomplete mastery): C++, C#, Python, PHP, HTML, CSS...
